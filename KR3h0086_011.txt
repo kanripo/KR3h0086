@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 考古圖
-#+DATE: 2019-03-29 21:20:58.808856
+#+DATE: 2019-03-29 21:20:58.905877
 #+PROPERTY: ID KR3h0086
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR3h0086_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -182,7 +182,7 @@
 <pb:KR3h0086_WYG_011-17a>¶
 <pb:KR3h0086_WYG_011-17b>¶
 　　長安百姓王懷慶得之底葢全白玉為之廬江李伯時¶
-所收銅&KR0235;奩形製畧同碾作雲龍異獸之狀三足熊負¶
+所收銅鳳奩形製畧同碾作雲龍異獸之狀三足熊負¶
 之髙黍尺一尺一寸當今省尺八寸五分也身深六寸¶
 葢髙四寸口徑七寸八分當今六寸以今秤校之重八¶
 十四兩¶

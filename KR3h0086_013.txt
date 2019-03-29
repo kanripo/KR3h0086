@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 考古圖
-#+DATE: 2019-03-29 21:20:58.823360
+#+DATE: 2019-03-29 21:20:58.915375
 #+PROPERTY: ID KR3h0086
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR3h0086_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -168,8 +168,8 @@
 <pb:KR3h0086_WYG_013-16a>¶
 <pb:KR3h0086_WYG_013-16b>¶
 　　榮詢之所收無文刻制作甚工自背與兩翅為葢腹為¶
-爐&KR0235;口銜鈴翅亦懸鈴身負九鶵&KR0235;立槃中槃徑黍尺¶
-五寸&KR0235;髙一尺長一尺¶
+爐鳳口銜鈴翅亦懸鈴身負九鶵鳳立槃中槃徑黍尺¶
+五寸鳳髙一尺長一尺¶
 ¶
 ¶
 ¶
